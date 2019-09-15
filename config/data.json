@@ -1,0 +1,17 @@
+
+{
+  "headers":
+  {
+    "x-nonce": "94535",
+    "x-clientid": "8dff6abf9c8829cd2f8c473cd6ab8386",
+    "x-timestamp": "1567314497080",
+    "x-sign": "Linshen100",
+    "x-token": "anonymous_token",
+    "Connection": "keep-alive",
+    "Content-Length": "35",
+    "x-version": "1"},
+
+  "register_data": {"phone": "15212345678", "phoneCaptcha": 1816}
+
+
+}
